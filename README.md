@@ -1,4 +1,4 @@
-# terraform-iaac-august-2020
+# Following module will create VPC in specified region
 
 ```
 module "VPC" {
