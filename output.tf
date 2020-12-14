@@ -29,3 +29,7 @@ output "public_subnet3" {
 output "tags" {
     value = "${var.tags}"
 }
+
+output "region" {
+  value = "${var.region}"
+}
