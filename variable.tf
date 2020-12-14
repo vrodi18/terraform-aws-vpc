@@ -1,4 +1,4 @@
-variable "cidr_block" {}
+variable "vpc_cidr" {}
 variable "region" {}
 variable "private_cidr_block1" {}
 variable "private_cidr_block2" {}
